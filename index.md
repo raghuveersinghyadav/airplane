@@ -27,11 +27,11 @@ for i in range(1,11):
 #it returns series of numbers from 1 to 10
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [python official page](https://www.python.org).
 
-### Jekyll Themes
+### Java
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raghuveersinghyadav/airplane.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Java is a very famous programming language.It is used iot.It is used in android app development and many more.
 
 ### Support or Contact
 
