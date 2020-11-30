@@ -4,26 +4,27 @@ It is editor that is come after some development.It is able to run famous langua
 
 
 
-### Python
+### [Python](www.python.org)
 
 Python is a very famous easy to learn, beginner-friendly language.It is also famous for use in artificial-intelligence, machine-learning,deep-learning and data science.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+m=10
+print(m)
+#returns 10
+x = 10
+print(m+x)
+#returns 20
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+for i in range(1,11):
+    print(i)
+#it returns series of numbers from 1 to 10
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
