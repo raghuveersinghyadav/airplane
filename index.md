@@ -27,7 +27,7 @@ for i in range(1,11):
 #it returns series of numbers from 1 to 10
 ```
 
-For more details see [python official page](https://www.python.org).
+
 
 ### Java
 
